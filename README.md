@@ -9,8 +9,11 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Programming Languages & Tools**
 
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-128.png" width="40">
-<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-128.png" width="40">
+<a href="#"><img src="https://www.dineshkumar.io/static/img/skills/html.png" width="40"></a>
+<a href="#"><img src="https://www.dineshkumar.io/static/img/skills/css.png" width="40"></a>
+
+<a href="#"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-128.png" width="40"></a>
+<a href="#"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-128.png" width="40"></a>
 
 <br>
 
