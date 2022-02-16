@@ -11,12 +11,12 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <a href="#"><img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/html-512.png" width="60" alt="HTML5"></a>
 <a href="#"><img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/css-512.png" width="60" alt="CSS3"></a>
-<a href="#"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-512.png" width="60" alt="SASS"></a>
+<a href="#"><img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/sass-512.png" width="60" alt="SASS"></a>
 <a href="#"><img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/less-512.png" width="60" alt="LESS"></a>
 <a href="#"><img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/boostrap-512.png" width="60"></a>
-<a href="#"><img src="https://www.dineshkumar.io/static/img/skills/js.jpg" width="60"></a>
+<a href="#"><img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/javascript-512.png" width="60"></a>
 <a href="#"><img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png" width="60"></a>
-<a href="#"><img src="https://www.dineshkumar.io/static/img/skills/vue.png" width="60"></a>
+<a href="#"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-512.png" width="60"></a>
 <a href="#"><img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/jquery-512.png" width="60"></a>
 
 
