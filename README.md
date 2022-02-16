@@ -11,6 +11,18 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <a href="#"><img src="https://www.dineshkumar.io/static/img/skills/html.png" width="40"></a>
 <a href="#"><img src="https://www.dineshkumar.io/static/img/skills/css.png" width="40"></a>
+<a href="#"><img src="https://www.dineshkumar.io/static/img/skills/sass.png" width="40"></a>
+<a href="#"><img src="https://www.dineshkumar.io/static/img/skills/bootstrap.png" width="40"></a>
+<a href="#"><img src="https://www.dineshkumar.io/static/img/skills/material-design.png" width="40"></a>
+<a href="#"><img src="https://www.dineshkumar.io/static/img/skills/js.jpg" width="40"></a>
+<a href="#"><img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png" width="40"></a>
+<a href="#"><img src="https://www.dineshkumar.io/static/img/skills/vue.png" width="40"></a>
+<a href="#"><img src="https://www.dineshkumar.io/static/img/skills/vuetify.jpg" width="40"></a>
+<a href="#"><img src="https://www.dineshkumar.io/static/img/skills/jquery.png" width="40"></a>
+<a href="#"><img src="https://www.dineshkumar.io/static/img/skills/npm.png" width="40"></a>
+<a href="#"><img src="https://www.dineshkumar.io/static/img/skills/git.png" width="40"></a>
+
+
 
 <a href="#"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-128.png" width="40"></a>
 <a href="#"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-128.png" width="40"></a>
