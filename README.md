@@ -9,9 +9,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Programming Languages & Tools**
 
-<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
-<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">
-
+<a href="#"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-128.png" width="40"></a>
+<a href="#"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-128.png" width="40"></a>
 
 <br>
 
