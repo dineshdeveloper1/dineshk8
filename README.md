@@ -15,13 +15,6 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <br>
 
-## Some of my stats :bar_chart:
-
-<img src="https://github-readme-stats.vercel.app/api?username=dineshk8&show_icons=true&theme=radical&include_all_commits=true">
-|--|--|
-
-<br>
-
 ## Let's Connect :handshake:
 
 <a href="https://www.linkedin.com/in/dineshk8/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
