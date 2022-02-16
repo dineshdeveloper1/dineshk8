@@ -25,5 +25,5 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <a href="https://www.dineshkumar.io/"><img src="https://cdn3.iconfinder.com/data/icons/scenarium-vol-19/128/019_003_world_web_network_www-512.png" width="40"></a>
 <a href="https://www.linkedin.com/in/dineshk8/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
-
+hello@dineshkumar.io
 
